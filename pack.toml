@@ -1,0 +1,13 @@
+name = "Devs Kitchen"
+author = "DiamondDEV"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d1de6ec46eec4394da2dc67ec22d35baa29c557dee3948d9e6da4cebd5673462"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.222"

@@ -1,0 +1,4 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:trial_key","components":{"minecraft:custom_model_data":711,"minecraft:item_name":"{\"fallback\":\"Shrine Key\",\"translate\":\"item.dnt.shrine_key\"}"}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,14 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:deepslate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bedrock"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"avaritia:infinity_catalyst"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"avaritia:eternal_singularity"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"avaritia:infinity_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"avaritia:infinity_chestplate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"avaritia:singularity","components":{"avaritia:singularity_id":"avaritia:copper"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"avaritia:singularity","components":{"avaritia:singularity_id":"avaritia:obsidian"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"avaritia:singularity","components":{"avaritia:singularity_id":"avaritia:emerald"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"avaritia:singularity","components":{"avaritia:singularity_id":"avaritia:amethyst_shard"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"avaritia:singularity","components":{"avaritia:singularity_id":"avaritia:quartz"}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

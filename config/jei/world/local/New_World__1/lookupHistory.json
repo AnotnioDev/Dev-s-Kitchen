@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"pointblank:gunmetal_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pointblank:glock17","components":{"geckolib:stack_animatable_id":1,"pointblank:custom_tag":{"sa":{"scope":"/"},"ammox":{},"seed":-8528056888065395646,"fmid":[1408449219,-902153497,-1654582519,-958024607],"aim":0,"mid":4075247448447926652,"ammo":14,"lid":-6612372456417594605},"pointblank:ts":1775120965463}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

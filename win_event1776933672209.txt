@@ -1,0 +1,166 @@
+Detected that Windows reported recent critical or error events in the Application log,
+which can indicate that a process (including the Minecraft JVM) terminated unexpectedly.
+Scope: Application log; Levels: Error & Critical; Window: last ~15 seconds.
+
+If no java.exe (or related JVM processes) are listed below, you can disregard this message.
+To inspect these events manually:
+  1) Press Win+R, type "eventvwr.msc", press Enter.
+  2) Open "Windows Logs" → "Application".
+  3) Sort by Date and look for entries with Level = Error or Critical near the crash time.
+
+-----------------------
+Time: 2029-03-29 16:42:08.443 AEDT
+Source: Application Error
+Event ID: 1000
+Level: Error
+
+Message:
+  Faulting application name: invcol.exe, version: 13.8.0.155, time stamp: 0x69b3e5b3
+  Faulting module name: icsvc.dll, version: 13.8.0.155, time stamp: 0x69b3e5b0
+  Exception code: 0xc0000005
+  Fault offset: 0x00002d40
+  Faulting process id: 0xC1B0
+  Faulting application start time: 0x1E01C7C5CEC1A6B
+  Faulting application path: C:\Program Files (x86)\Dell\UpdateService\Service\InvColPC\invcol.exe
+  Faulting module path: C:\Program Files (x86)\Dell\UpdateService\Service\InvColPC\icsvc.dll
+  Report Id: 60f83d59-0eed-4c8d-854f-0eeca9163e3c
+  Faulting package full name: 
+  Faulting package-relative application ID:
+
+
+Details:
+  - AppName: invcol.exe
+  - AppVersion: 13.8.0.155
+  - AppTimeStamp: 69b3e5b3
+  - ModuleName: icsvc.dll
+  - ModuleVersion: 13.8.0.155
+  - ModuleTimeStamp: 69b3e5b0
+  - ExceptionCode: c0000005
+  - FaultingOffset: 00002d40
+  - Process ID: 49584 [0xc1b0]
+  - ProcessCreationTime: 0x1e01c7c5cec1a6b
+  - AppPath: C:\Program Files (x86)\Dell\UpdateService\Service\InvColPC\invcol.exe
+  - ModulePath: C:\Program Files (x86)\Dell\UpdateService\Service\InvColPC\icsvc.dll
+  - IntegratorReportId: 60f83d59-0eed-4c8d-854f-0eeca9163e3c
+  - Process ID: 49584 [0xC1B0]
+  - Start Time: 2029-03-29 16:42:08.161 AEDT [0x1E01C7C5CEC1A6B]
+  - Exception Code: 3221225477 [0xc0000005]
+-----------------------
+
+-----------------------
+Time: 2029-03-29 16:42:12.066 AEDT
+Source: Application Error
+Event ID: 1000
+Level: Error
+
+Message:
+  Faulting application name: invcol.exe, version: 13.8.0.155, time stamp: 0x69b3e5b3
+  Faulting module name: icsvc.dll, version: 13.8.0.155, time stamp: 0x69b3e5b0
+  Exception code: 0xc0000005
+  Fault offset: 0x00002d40
+  Faulting process id: 0xC050
+  Faulting application start time: 0x1E01C7C5F291605
+  Faulting application path: C:\Program Files (x86)\Dell\UpdateService\Service\InvColPC\invcol.exe
+  Faulting module path: C:\Program Files (x86)\Dell\UpdateService\Service\InvColPC\icsvc.dll
+  Report Id: 167e2225-6553-4a39-a4ce-8c3a73b3aebd
+  Faulting package full name: 
+  Faulting package-relative application ID:
+
+
+Details:
+  - AppName: invcol.exe
+  - AppVersion: 13.8.0.155
+  - AppTimeStamp: 69b3e5b3
+  - ModuleName: icsvc.dll
+  - ModuleVersion: 13.8.0.155
+  - ModuleTimeStamp: 69b3e5b0
+  - ExceptionCode: c0000005
+  - FaultingOffset: 00002d40
+  - Process ID: 49232 [0xc050]
+  - ProcessCreationTime: 0x1e01c7c5f291605
+  - AppPath: C:\Program Files (x86)\Dell\UpdateService\Service\InvColPC\invcol.exe
+  - ModulePath: C:\Program Files (x86)\Dell\UpdateService\Service\InvColPC\icsvc.dll
+  - IntegratorReportId: 167e2225-6553-4a39-a4ce-8c3a73b3aebd
+  - Process ID: 49232 [0xC050]
+  - Start Time: 2029-03-29 16:42:11.916 AEDT [0x1E01C7C5F291605]
+  - Exception Code: 3221225477 [0xc0000005]
+-----------------------
+
+-----------------------
+Time: 2029-03-29 16:42:15.969 AEDT
+Source: Application Error
+Event ID: 1000
+Level: Error
+
+Message:
+  Faulting application name: invcol.exe, version: 13.8.0.155, time stamp: 0x69b3e5b3
+  Faulting module name: icsvc.dll, version: 13.8.0.155, time stamp: 0x69b3e5b0
+  Exception code: 0xc0000005
+  Fault offset: 0x00002d40
+  Faulting process id: 0xC80C
+  Faulting application start time: 0x1E01C7C616FDDF3
+  Faulting application path: C:\WINDOWS\TEMP\invBEA0_tmp\invcol.exe
+  Faulting module path: C:\WINDOWS\TEMP\invBEA0_tmp\icsvc.dll
+  Report Id: 811242e5-f20d-4c53-a17a-8c40ce013fb3
+  Faulting package full name: 
+  Faulting package-relative application ID:
+
+
+Details:
+  - AppName: invcol.exe
+  - AppVersion: 13.8.0.155
+  - AppTimeStamp: 69b3e5b3
+  - ModuleName: icsvc.dll
+  - ModuleVersion: 13.8.0.155
+  - ModuleTimeStamp: 69b3e5b0
+  - ExceptionCode: c0000005
+  - FaultingOffset: 00002d40
+  - Process ID: 51212 [0xc80c]
+  - ProcessCreationTime: 0x1e01c7c616fddf3
+  - AppPath: C:\WINDOWS\TEMP\invBEA0_tmp\invcol.exe
+  - ModulePath: C:\WINDOWS\TEMP\invBEA0_tmp\icsvc.dll
+  - IntegratorReportId: 811242e5-f20d-4c53-a17a-8c40ce013fb3
+  - Process ID: 51212 [0xC80C]
+  - Start Time: 2029-03-29 16:42:15.735 AEDT [0x1E01C7C616FDDF3]
+  - Exception Code: 3221225477 [0xc0000005]
+-----------------------
+
+-----------------------
+Time: 2029-03-29 16:42:19.395 AEDT
+Source: Application Error
+Event ID: 1000
+Level: Error
+
+Message:
+  Faulting application name: invcol.exe, version: 13.8.0.155, time stamp: 0x69b3e5b3
+  Faulting module name: icsvc.dll, version: 13.8.0.155, time stamp: 0x69b3e5b0
+  Exception code: 0xc0000005
+  Fault offset: 0x00002d40
+  Faulting process id: 0xB6E0
+  Faulting application start time: 0x1E01C7C6383CAC2
+  Faulting application path: C:\WINDOWS\TEMP\invCC3C_tmp\invcol.exe
+  Faulting module path: C:\WINDOWS\TEMP\invCC3C_tmp\icsvc.dll
+  Report Id: 208d67ab-d5f5-49ab-85c1-fe6b7f9c64a6
+  Faulting package full name: 
+  Faulting package-relative application ID:
+
+
+Details:
+  - AppName: invcol.exe
+  - AppVersion: 13.8.0.155
+  - AppTimeStamp: 69b3e5b3
+  - ModuleName: icsvc.dll
+  - ModuleVersion: 13.8.0.155
+  - ModuleTimeStamp: 69b3e5b0
+  - ExceptionCode: c0000005
+  - FaultingOffset: 00002d40
+  - Process ID: 46816 [0xb6e0]
+  - ProcessCreationTime: 0x1e01c7c6383cac2
+  - AppPath: C:\WINDOWS\TEMP\invCC3C_tmp\invcol.exe
+  - ModulePath: C:\WINDOWS\TEMP\invCC3C_tmp\icsvc.dll
+  - IntegratorReportId: 208d67ab-d5f5-49ab-85c1-fe6b7f9c64a6
+  - Process ID: 46816 [0xB6E0]
+  - Start Time: 2029-03-29 16:42:19.221 AEDT [0x1E01C7C6383CAC2]
+  - Exception Code: 3221225477 [0xc0000005]
+-----------------------
+

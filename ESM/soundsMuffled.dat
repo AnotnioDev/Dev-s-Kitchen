@@ -1,0 +1,7 @@
+{
+  "minecraft:entity.zombie.ambient": 0.0,
+  "minecraft:entity.iron_golem.step": 0.0,
+  "minecraft:entity.iron_golem.death": 0.0,
+  "minecraft:entity.villager.ambient": 0.0,
+  "minecraft:entity.iron_golem.hurt": 0.0
+}
