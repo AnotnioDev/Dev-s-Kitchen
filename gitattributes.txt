@@ -1,2 +1,16 @@
-# Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
+# Prevent Git from auto-converting line endings globally
 * -text
+
+# Explicitly force LF for pack text/config files
+*.toml text eol=lf
+*.cfg text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.properties text eol=lf
+*.mcmeta text eol=lf
+*.pw.toml text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+*.md text eol=lf
