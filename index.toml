@@ -285,10 +285,6 @@ file = "config/appleskin-client.toml"
 hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
 
 [[files]]
-file = "config/aquaculture-common.toml"
-hash = "e8d9fdd5fe9b62b1dc3019fdb9489406654f0336d05bc23f217a1152ad0efe24"
-
-[[files]]
 file = "config/ars_elemental-client.toml"
 hash = "8e110b4e79206ba0ab77eae7a0581ad19cdd1eb43aa2e85ce9c3686f82253fb6"
 
@@ -1323,14 +1319,6 @@ hash = "f09f5d53f6b4ec578446aa8b08721bf8c09bb08200d7a49d821ab28bbd6d5242"
 [[files]]
 file = "config/cristellib/paraglider/structure_toggle_config.json5"
 hash = "3acdfb03c3c072eef26e1afad5a076543cfad0ca484f615f49ce54ef801347b7"
-
-[[files]]
-file = "config/cristellib/structory/structure_placement_config.json5"
-hash = "0eab3d6c98dd4eedbe4dce5a4fc4596d1d060876bc20bbe60e069ab5ae61df0c"
-
-[[files]]
-file = "config/cristellib/structory/structure_toggle_config.json5"
-hash = "a33903592feb8a1e1fd0a4fe0adf4ef72efbb4832330c9500db0fb2910abd287"
 
 [[files]]
 file = "config/cristellib/supplementaries/structure_placement_config.json5"
@@ -3771,11 +3759,6 @@ hash = "f15037bbd326999cb63b1267628f64c29ca3df1650c2276e492cb5ff88fbed7e"
 metafile = true
 
 [[files]]
-file = "mods/aquaculture.pw.toml"
-hash = "fbbea448bb6a8bdab5d9f10fb5d27d177a0e7998fb4d797287f0a83b6f89e6d2"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
@@ -4178,11 +4161,6 @@ metafile = true
 [[files]]
 file = "mods/ding.pw.toml"
 hash = "c49a7dff3e52d696cc632ed5602870b396b43eb800c4f448fa0d82cd066463f0"
-metafile = true
-
-[[files]]
-file = "mods/displaycase.pw.toml"
-hash = "bdbe66b6cca11b845bfebac2ce0821b119b8518f6deef8ceb9897bd7df1476f6"
 metafile = true
 
 [[files]]
@@ -5168,11 +5146,6 @@ metafile = true
 [[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "2322e7e1c2c8d6a1e841ebe73dc3b78c3037435806f85fe48c62f68d26ed7667"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "2232bcc24b4b597dfd19deb3618bf8e0431d7437e978f7503f32ec59f6dd16cd"
 metafile = true
 
 [[files]]
