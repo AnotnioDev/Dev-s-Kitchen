@@ -285,6 +285,10 @@ file = "config/appleskin-client.toml"
 hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
 
 [[files]]
+file = "config/aquaculture-common.toml"
+hash = "e8d9fdd5fe9b62b1dc3019fdb9489406654f0336d05bc23f217a1152ad0efe24"
+
+[[files]]
 file = "config/ars_elemental-client.toml"
 hash = "8e110b4e79206ba0ab77eae7a0581ad19cdd1eb43aa2e85ce9c3686f82253fb6"
 
@@ -1319,6 +1323,14 @@ hash = "f09f5d53f6b4ec578446aa8b08721bf8c09bb08200d7a49d821ab28bbd6d5242"
 [[files]]
 file = "config/cristellib/paraglider/structure_toggle_config.json5"
 hash = "3acdfb03c3c072eef26e1afad5a076543cfad0ca484f615f49ce54ef801347b7"
+
+[[files]]
+file = "config/cristellib/structory/structure_placement_config.json5"
+hash = "0eab3d6c98dd4eedbe4dce5a4fc4596d1d060876bc20bbe60e069ab5ae61df0c"
+
+[[files]]
+file = "config/cristellib/structory/structure_toggle_config.json5"
+hash = "a33903592feb8a1e1fd0a4fe0adf4ef72efbb4832330c9500db0fb2910abd287"
 
 [[files]]
 file = "config/cristellib/supplementaries/structure_placement_config.json5"
