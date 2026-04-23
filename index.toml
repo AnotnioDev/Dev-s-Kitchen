@@ -1,16 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "ESM/New World/anchors.dat"
-hash = "c5a6a80b1164d98970126276e0847a9a4100081eed7f99b3775c4c3163f9b459"
+file = ".mixin.out/class/net/irisshaders/iris/gui/element/ShaderPackOptionList$HeaderEntry.class"
+hash = "7538956a9e5b8eab2be3dd44b2a75b0a022417f7fbf1180a99e3cffc88070cbe"
 
 [[files]]
-file = "ESM/ServerWorld/anchors.dat"
-hash = "c5a6a80b1164d98970126276e0847a9a4100081eed7f99b3775c4c3163f9b459"
+file = ".mixin.out/class/net/minecraft/client/particle/ParticleEngine.class"
+hash = "8f147655b9a7be8ef975c18eb610a3693864ea313f166b81c72968c71106ee52"
 
 [[files]]
-file = "ESM/soundsMuffled.dat"
-hash = "90d340341f3bf05042351ff6ec7674fc60cb28f34b341d7d56564aee4e8015de"
+file = ".mixin.out/class/net/minecraft/client/particle/SingleQuadParticle.class"
+hash = "377779ed9fbce7428df15d946753d2beb23969d73e254497f45293b4d10e01fb"
 
 [[files]]
 file = "config/Advancedperipherals/general.toml"
@@ -1122,7 +1122,7 @@ hash = "6f2a0de9bf7a64540881d1d43912be340ff8281f2307d947c652782ddd52e48c"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "e4fb0fac65b9d59c8c64d47accea8d132196dea0c066ee627a6c6fb1b1e3bb66"
+hash = "0d25a29999798163dec8a3d02cd1771b587f90ecd3d745a80ca8c4193fb84c72"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
@@ -1138,7 +1138,7 @@ hash = "adde7e5e42b9d716f14a9bc49797999a21a0ee05cc67e71410a232f830115b3b"
 
 [[files]]
 file = "config/crash_assistant/scripts/startup/example.jexl"
-hash = "b34373d4cb64be695c42bdacb55d8aaf065f3466789dcdcf4b43f42cd20a6537"
+hash = "cc3bd295f04eb052b64acf161c539be3b089b4ef73d6973cdb2c3cda3c801680"
 
 [[files]]
 file = "config/crawl.properties"
@@ -3633,8 +3633,12 @@ file = "dynamic-resource-pack-cache/supplementaries-generated_pack/assets/supple
 hash = "c96a75155bd660ee0cb32a62fa1ededcaa8d6751715b8ff30bb37f7f38a3fe63"
 
 [[files]]
-file = "icon.png"
-hash = "177676d888b7610881b4855ede30e899eab6ab14a0f1190049f83001908e2a3a"
+file = "gitattributes.txt"
+hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+
+[[files]]
+file = "gitignore.txt"
+hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -3675,11 +3679,6 @@ hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 [[files]]
 file = "minemenu/menu.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "mods/advanced-loot-info.pw.toml"
-hash = "94dfafc712711090b4c6932be71dd89f6e61119078bbcae5850cfb4068b5950a"
-metafile = true
 
 [[files]]
 file = "mods/advancedae.pw.toml"
@@ -4097,16 +4096,6 @@ hash = "ec65f48e74ac39be1d5a99e0bc74fd1013abd9efcf361e52043990ff5fba4c2b"
 metafile = true
 
 [[files]]
-file = "mods/create-oxidized.pw.toml"
-hash = "cde568a867601aaf6b779b6565bf2ed19f127fa1415f8d68f30b25b2dc70de42"
-metafile = true
-
-[[files]]
-file = "mods/create-power-loader.pw.toml"
-hash = "f1e8b22f412b06eee32c2555922ba188dad9cae76d13dad46fa9080b2e763a5f"
-metafile = true
-
-[[files]]
 file = "mods/create-stock-bridge.pw.toml"
 hash = "8b3e4dc52381c3f3aa9f1ac5d335da663f8def2732735f57b3684fb35d2ac079"
 metafile = true
@@ -4294,11 +4283,6 @@ metafile = true
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
 hash = "298f2a99e309853181e71938c2358c4b2c7c6c19137dcf6bcefb736d43ab6f65"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "67f2c17eba534ea6f5a577b0c8b566dc60ff90385c1aa5787a47a4b046cb1d47"
 metafile = true
 
 [[files]]
@@ -5082,11 +5066,6 @@ hash = "96e5c52b0fafd54183e29b3ab1d8df8f1e09a46045afe0d35d19274c07c59d80"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "4abaf62a0f44239cee5d5638b47307f2a9017ef499330b2d74f89080d9a09b00"
-metafile = true
-
-[[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "89fb937441c927ec06fa50bdfead0ecc31e947ebd932d47d46110576b77487b1"
 metafile = true
@@ -5292,62 +5271,8 @@ hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "779c0028d292d239c2ab6dbd99ee16f3ceb9238db98bf7ca5c0c577c73cedc36"
-
-[[files]]
-file = "resourcepacks/ae2-blackout.pw.toml"
-hash = "8364f8ef9a264bda68cb0bb204732a813258b6522e19734556897154af1c4993"
-metafile = true
-
-[[files]]
-file = "resourcepacks/armor-trim-compats.pw.toml"
-hash = "bbae9cfeac16ae196c8ee2fefbba1cbc4081e8671716ec8c74c93efd3b38b3b2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/capitalized-font.pw.toml"
-hash = "8c13cb9c638fb4720cc12731e680ab10dc760e0ab640ba3ffebdd890de776dd5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
-hash = "6d6b7da245ca52c3dcfa20907de5934af51634f07319c3072b26a7f9971e1738"
-metafile = true
-
-[[files]]
-file = "resourcepacks/low-on-fire.pw.toml"
-hash = "c78e5aadda0f2be8481cefeaa7fc27fce87c34097dbfd29aa715fef2b1f55ba4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/low-shield.pw.toml"
-hash = "a57787ec4a77621d4802dd4e2788f38009c01c9fa7e542e9d72fdc8c23647548"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mandala-gui-dark-mode-utopia-extension.pw.toml"
-hash = "286e8f002b15dada724f22298913b29ebeffe39d1b8d7386fb9e3b9252a0e3b7"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
-hash = "c3c618df6fa8e9f4b8de628c050cde77fec5fac7778a38ac94b28f42183e3a2a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/simply-swords-reforged.pw.toml"
-hash = "a64f903e876df5a0eaf37b4fcd3fd94b09e43d0f6e54a5a077553afa103f18ef"
-metafile = true
-
-[[files]]
-file = "resourcepacks/slightly-improved-font.pw.toml"
-hash = "1500696334c198418def3441b2a5764156c1b68d7de1882d345f61d842dc3d25"
-metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "25a9744fb6be6d4811de8ddd90d6558ce4fcb35f915c3d1f04936a4dbd8877c3"
+file = "packwizignore.txt"
+hash = "1ab5e00106e8f4783e78f44754edf006ce875f18728f815c02d8ecf2fac5097c"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
@@ -7556,31 +7481,3 @@ hash = "1ff2a3529f60f4cdf66e2e8ac09d90813ce479ef340c18440deeccf845141ff3"
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip"
 hash = "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0"
-
-[[files]]
-file = "visual_keybinder/layouts/1.Full Keyboard and mouse.layout.txt"
-hash = "94cf7a57dd6bfddad9892cc0954b727e955118604a2b486186e722885cecfbec"
-
-[[files]]
-file = "visual_keybinder/layouts/2.Mouse.layout.txt"
-hash = "2a0f734356677fa9d4aea308a4f5594616a6989c8c5a59b9478d4aaa56fcc152"
-
-[[files]]
-file = "visual_keybinder/layouts/3.Keyboard.layout.txt"
-hash = "e134851f68047e11377c9dbdfa8724e583bf00240cafc8fd6ad558b8888bc17a"
-
-[[files]]
-file = "visual_keybinder/layouts/4.Keypad.layout.txt"
-hash = "02ac95971692039faa066e9105bcc16222ec4d329e78bf801d6a612f0d32fdae"
-
-[[files]]
-file = "visual_keybinder/layouts/5.Function keys.layout.txt"
-hash = "6abe68a2fc042c83f62d0ba8d9ca3c710828a118f9713bbafc0b11c60980244c"
-
-[[files]]
-file = "visual_keybinder/presets/Default.preset.txt"
-hash = "efcd4e6c1b5c6ddb1d71f7b1db88faa4cbc8be9b064ca6b5cf556b7c1357add9"
-
-[[files]]
-file = "win_event1776933672209.txt"
-hash = "7b5ad9569a96eade57717a1a1e5d5c9b25233d03f2099bad0249172a454403b4"
